@@ -1,0 +1,27 @@
+docker --version
+docker login
+docker images
+docker pull ubuntu
+docker pull ubuntu:latest or rolling
+docker images -q
+docker images -f "dangling=true or false"
+docker run ubuntu
+docker run --name <name> -it ubuntu bash
+docker ps
+docker start <container name>
+docker pause <container name>
+docker stop <container name>
+docker top <container name>
+docker rm <container name>
+docker inspect <image name>
+docker rmi <image name>
+docker history
+
+
+
+//images commands
+docker build -t <name>
+docker images
+docker inspect <name given>
+docker run -it -p 8888:80 <name>
+docker stop <funny container name>

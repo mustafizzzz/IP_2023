@@ -1,0 +1,22 @@
+ Ubuntu commands
+ 1. `cd` (Change Directory):- Function: Change the current working directory.
+ 2. `ls` (List):- Function: List files and directories in the current directory.
+ 3. `mkdir` (Make Directory):- Function: Create a new directory or folder.
+ 4. `touch`:- Function: Create an empty file.
+ 5. `rm` (Remove):- Function: Delete files or directories.
+ 6. `cp` (Copy):- Function: Copy files or directories from one location to another.
+ 7. `mv` (Move):- Function: Move or rename files or directories.
+ 8. `pwd` (Print Working Directory):- Function: Display the current working directory.
+ 9. `cat` (Concatenate):- Function: Display the contents of a file, or combine and display multiple files.
+ 10. `grep` (Global Regular Expression Print):- Function: Search for text patterns within files.
+ 11. `echo`:- Function: Display text or variables in the terminal.
+ 12. `ping`:- Function: Test network connectivity to a host.
+ 13. `ifconfig` (or `ipconfig` on Windows):- Function: Display network configuration information.
+ 14. `ssh` (Secure Shell):- Function: Connect to a remote server securely.
+ 15. `chmod` (Change Mode):- Function: Change file permissions.
+ 16. `chown` (Change Owner):- Function: Change file or directory ownership.
+ 17. `top` (or `htop`):
+- Function: Display a real-time system resource monitor.
+ 18. `df` (Disk Free):- Function: Show disk space usage.
+ 19. `history`:- Function: Display a list of previously executed commands.
+ 20. `wget` (or `curl`):- Function: Download files from the internet
